@@ -59,6 +59,18 @@ p {
     background-size: 13.67px 14.66px;
 }
 
+button {
+    color: #8bc34a;
+    border: 3px solid #8bc34a;
+    border-radius: 5px;
+    background: #fafafa;
+    font-size: 100%;
+    text-transform: uppercase;
+    padding: 5px 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    font-weight: 600;
+}
 
 
 
